@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/jeksilaen/tiny-package.git">
-<img alt="npm bundle size (scoped)" src="https://img.shields.io/bundlephobia/min/@zachariabachtiar/tiny?label=minified%20size">
+<img alt="npm bundle size (scoped version)" src="https://img.shields.io/bundlephobia/min/@zachariabachtiar/tiny/2.0.1">
 </a>
 
 Removes all spaces from a string.
